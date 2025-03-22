@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p xtvar2 Panel vector autoregressive models (PVARs) Use xtvar2 With STATA 18

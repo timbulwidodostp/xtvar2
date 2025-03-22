@@ -1,0 +1,4 @@
+D 'xtvar2': Panel vector autoregressive models (PVARs) Use xtvar2 With STATA 18
+D
+F xtvar2.ado
+F xtvar2.sthlp
