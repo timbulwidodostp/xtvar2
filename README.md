@@ -1,5 +1,7 @@
 # xtvar2
-Panel vector autoregressive models (PVARs) Use xtvar2 With STATA 18
+Panel vector autoregressive models (PVARs) Use xtvar2 With STATA 19
+
+https://www.youtube.com/watch?v=hI0CQPHF3l8
 
 Olah Data Semarang
 
